@@ -9,8 +9,8 @@ import time
 init()
 
 # Masukkan URL webhook Anda di sini
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1330413204513488958/-1XA6MoAsflnesu6iR4rIbbwWMLO9C2rGIPk4d7jjjuRtPHefPnA74s4eL5KmugXAwrZ"
-OWNER_ROLE_ID = "1319889426528075808"  # Ganti dengan ID role yang valid
+DISCORD_WEBHOOK_URL = ""
+OWNER_ROLE_ID = ""  # Ganti dengan ID role yang valid
 
 
 def send_to_webhook(message, title="Nitro Code Generator", is_valid=False):

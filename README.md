@@ -7,7 +7,7 @@
 # Nitro-Generator
 This is used to generate discord.gift
 
-**Discord For Support**: https://anonix.xyz/discord
+**Discord For Support**: https://discord.gg/J2svMybxuy
     
     
 Please, don't write in general and support chat for this only, DM us if you want help.
